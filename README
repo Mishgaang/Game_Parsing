@@ -1,0 +1,1 @@
+To start parser use: 'scrapy crawl games/news' + (-o name_file.csv) to create name_file.csv
